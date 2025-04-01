@@ -1,4 +1,4 @@
-# First_repo
+cd # First_repo
 This is my first repo.
 <br>
 Written by Prashant Tomar.
